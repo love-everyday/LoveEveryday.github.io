@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yuan的博客]]></title>
+  <link href="http://love-everyday.github.io/atom.xml" rel="self"/>
+  <link href="http://love-everyday.github.io/"/>
+  <updated>2016-02-21T09:15:36+08:00</updated>
+  <id>http://love-everyday.github.io/</id>
+  <author>
+    <name><![CDATA[love-everyday]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://love-everyday.github.io/blog/2016/02/21/title/"/>
+    <updated>2016-02-21T09:08:54+08:00</updated>
+    <id>http://love-everyday.github.io/blog/2016/02/21/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

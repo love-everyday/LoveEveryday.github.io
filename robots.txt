@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://love-everyday.github.io/sitemap.xml 
