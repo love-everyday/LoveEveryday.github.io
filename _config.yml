@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://love-everyday.github.io
+title: Yuan的博客
+subtitle: 半亩方塘一鉴开，天光云影共徘徊
+author: love-everyday
 simple_search: https://www.google.com/search
 description:
 
